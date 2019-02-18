@@ -1,6 +1,8 @@
 package cn.hg.task.user.controller;
 
-public class UserController {
+import cn.hg.task.common.BaseController;
+
+public class UserController  extends BaseController {
 
 
 }
