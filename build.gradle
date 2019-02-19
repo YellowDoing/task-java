@@ -19,4 +19,6 @@ dependencies {
 	runtimeOnly 'mysql:mysql-connector-java'
 	implementation 'com.baomidou:mybatis-plus-boot-starter:3.0.7.1'
 	implementation 'org.springframework.boot:spring-boot-starter-aop'
+	implementation 'org.projectlombok:lombok:1.18.6'
+
 }

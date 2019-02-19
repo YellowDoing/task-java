@@ -11,4 +11,8 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 public class TaskServiceImpl extends ServiceImpl<TaskMapper, Task> implements ITaskService {
 
 
+    public void a(){
+
+    }
+
 }
